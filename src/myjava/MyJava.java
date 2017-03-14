@@ -17,6 +17,8 @@ public class MyJava {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        System.out.println("Hello Elizabeth!");
+        
         //example editing
         //example two
     }
