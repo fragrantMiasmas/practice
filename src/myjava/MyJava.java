@@ -22,6 +22,8 @@ public class MyJava {
         //this is some more edits in branch/master made by jamie!!
         //
         //this is an edit made from vim!
+        //
+        //heres some more for ya
         
         //example editing
         //example two
