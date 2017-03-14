@@ -20,6 +20,8 @@ public class MyJava {
         System.out.println("Hello Elizabeth!");
         
         //this is some more edits in branch/master made by jamie!!
+        //
+        //this is an edit made from vim!
         
         //example editing
         //example two
