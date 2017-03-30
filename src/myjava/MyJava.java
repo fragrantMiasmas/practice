@@ -17,6 +17,14 @@ public class MyJava {
     public static void main(String[] args) {
         // TODO code application logic here
         
+        System.out.println("Hello Elizabeth!");
+        
+        //this is some more edits in branch/master made by jamie!!
+        //
+        //this is an edit made from vim!
+        //
+        //heres some more for ya
+        
         //example editing
         //example two
         //Marleigh Williams!!!
